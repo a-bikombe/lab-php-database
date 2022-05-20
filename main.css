@@ -1,0 +1,33 @@
+body {
+	background-color: rgb(204, 225, 253);
+	padding: 1vw;
+}
+
+body * {
+	text-align: center;
+}
+
+table, table * {
+	border: 1px solid black;
+}
+
+table {
+	margin: 2vw auto;
+	background-color: rgb(234, 243, 255);
+}
+
+table *, button {
+	padding: 1vw;
+}
+
+th {
+	text-transform: uppercase;
+}
+
+td {
+	text-transform: lowercase;
+}
+
+input, textarea {
+	margin: auto;
+}
